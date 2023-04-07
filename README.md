@@ -1,4 +1,4 @@
-# Election_Trend-_Prediction-2019
+# Election_Trend_Prediction-2019
 
 The 2019 Indian General Elections was a landmark event, with over 900 million eligible voters and 543 parliamentary seats up for grabs. The outcome of the elections can have significant implications for the future of the country, making it a critical issue for politicians, policymakers, and citizens alike.
 
